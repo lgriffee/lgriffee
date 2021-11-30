@@ -1,5 +1,6 @@
 ### About Me 👋🏻
->**I’m a front-end developer & interface designer with 4+ years of experience building design systems for global non-profit and tech companies.**
+
+**I’m a front-end developer & interface designer with 4+ years of experience building design systems for global non-profit and tech companies.**
 
 My experience solving problems at the intersection of design and development equips me with a unique ability to leverage my understanding of both disciplines to facilitate better collaboration between designers and engineers, accelerate product development, and improve user interface code quality.
 
