@@ -1,11 +1,12 @@
 ### About Me 👋🏻
 
-**I’m a design engineer with over 7 years of expertise in front-end development, design systems, and product design for leading e-commerce and outdoor education companies.**
+**I’m a design engineer with over 7+ years of experience across front-end development, design systems, and product design for top e-commerce and outdoor education organizations.**
 
-My experience solving problems at the intersection of design and development equips me with a unique ability to leverage my understanding of both disciplines to facilitate better collaboration between designers and engineers, accelerate product development, and improve user interface code quality.
+My experience solving problems at the intersection of design and development gives me a unique ability to bridge both disciplines—enabling stronger collaboration between designers and engineers, accelerating product development, and improving user interface code quality.
 
-Currently I’m working as a front-end engineer on Shopify’s e-commerce platform, empowering millions of entrepreneurs worldwide as they start, grow, and manage their businesses.
+In recent years, I’ve focused on building and evolving design systems for mission-driven organizations, creating the foundations that support consistent, accessible, and efficient product development at scale.
 
+I’m passionate about using design and code to help socially responsible companies tackle complex, real-world problems.
 <!--
 **lgriffee/lgriffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
