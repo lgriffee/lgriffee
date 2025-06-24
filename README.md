@@ -1,6 +1,6 @@
 ### About Me 👋🏻
 
-**I’m a design engineer with over 7+ years of experience across front-end development, design systems, and product design for top e-commerce and outdoor education organizations.**
+**I’m a design engineer with over 7+ years of experience across front-end development, design systems, and product design for top commerce and outdoor education organizations.**
 
 My experience solving problems at the intersection of design and development gives me a unique ability to bridge both disciplines—enabling stronger collaboration between designers and engineers, accelerating product development, and improving user interface code quality.
 
