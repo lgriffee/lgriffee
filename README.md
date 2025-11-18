@@ -1,23 +1,9 @@
 ### About Me 👋🏻
 
-**I’m a design engineer with 8+ years of experience across frontend engineering, design systems, and product design for top commerce and outdoor education organizations.**
+**I'm a design engineer with 8+ years of experience across frontend engineering, design systems, and product design for leading commerce and education organizations.**
 
-My experience solving problems at the intersection of design and development gives me a unique ability to bridge both disciplines—enabling stronger collaboration between designers and engineers, accelerating product development, and improving user interface code quality.
+My experience solving problems at the intersection of design and development gives me a unique ability to bridge both disciplines—enabling stronger collaboration between designers and engineers, accelerating product development, and improving interface code quality.
 
-In recent years, I’ve focused on building and evolving design systems for mission-driven organizations, creating the foundations that support consistent, accessible, and efficient product development at scale.
+In recent years, I’ve focused on building and evolving design systems for mission-driven organizations, creating the foundations that support consistent, accessible, and efficient product development at scale. I've worked across the full spectrum—building systems from the ground up at lean nonprofits and scaling them at enterprise companies serving millions.
 
 I’m passionate about using design and code to help socially responsible companies tackle complex, real-world problems.
-<!--
-**lgriffee/lgriffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
